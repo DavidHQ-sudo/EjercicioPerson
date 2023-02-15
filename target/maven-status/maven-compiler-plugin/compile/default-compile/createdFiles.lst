@@ -1,0 +1,4 @@
+org\mps\person\Person.class
+org\example\Main.class
+org\mps\person\IncorrectGenderException.class
+org\mps\person\NegativeAgeException.class
